@@ -1,13 +1,100 @@
 /* content */
 
-#container {
+body {
+    background-image: url("food.png");
+    background-repeat: repeat;
+    font-family: 'Open Sans', sans-serif;
+    padding: 15px;
+    font-size: 1.5em;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	color: #6351AD;
+}
+
+.container {
 	margin: 40px auto;
 	overflow: hidden;
-	width: 800px;
+	width: 960px;
+    background-color: rgba(104, 189, 180, 0.4);
+    padding: 10px;
+    border-radius: 25px;
 }
 
 .column {
 	float: left;
-	width: 200px;
+    padding-left: 10px;
+    width: 150px;
 }
 
+#current_items {
+	width: 500px;
+    border-right: 4px solid #68BDB4;
+}
+
+#get_location {
+    width: 500px;
+    border-right: 4px solid #68BDB4;
+}
+
+#current_items ul {
+    padding-right: 10px
+}
+
+#current_items li {
+	list-style-type: none;
+    animation-name: slidein;
+    animation-duration: 1s;
+}
+
+#current_items li:hover { 
+    background: #A4DFD9;
+    transform: rotate(2deg);
+}
+
+#add_items {
+	width: 150px;
+	padding: 10px;
+}
+
+#todo-form-add {
+	width: 150px;
+	padding: 0px 10px 0px 10px;
+}
+
+#todo-list li {
+	padding: 5px;
+}
+
+#todo-form {
+	padding-top: 15px;
+}
+
+#todo-form label {
+	font-size: 20px;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+@-webkit-keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
