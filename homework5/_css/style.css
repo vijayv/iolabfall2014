@@ -1,0 +1,38 @@
+/* content */
+
+* {
+	font-family: sans-serif;
+}
+
+body {
+    background-color: #84CA84;
+    margin-left: 25px;
+}
+
+tr {
+    border: 1px solid rgb(0, 0, 0);
+}
+
+td {
+    border: 1px solid rgb(97, 97, 97);
+}
+
+table {
+    background-color: #eeeeee;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 9px 12px;
+    border-spacing: 1px 1px;
+    margin: auto;
+}
+
+button {
+	padding: 5px;
+}
+
+#container {
+    width: 960px;
+}
+
+#map {
+    height: 480px;
+}
