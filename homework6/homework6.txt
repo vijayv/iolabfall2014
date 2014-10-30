@@ -1,0 +1,15 @@
+1.
+http://courses.ischool.berkeley.edu/i290ta/f14/homework-1.xhtml Get Setup! 09-04
+http://courses.ischool.berkeley.edu/i290ta/f14/homework-2.xhtml Back to the Future with CSS3 09-11
+http://courses.ischool.berkeley.edu/i290ta/f14/homework-3.xhtml Scripting - To do? Or not TO DO?! 09-25
+http://courses.ischool.berkeley.edu/i290ta/f14/homework-4.xhtml Accessing USGS Earthquake Data 10-02
+http://courses.ischool.berkeley.edu/i290ta/f14/homework-5.xhtml Mapping Earthquakes 10-09
+http://courses.ischool.berkeley.edu/i290ta/f14/homework-6.xhtml Triples in a Haystack 10-30
+
+2.
+<_:11> Your Pitches (P1) 09-16
+<_:13> Your Pitches (P1) 09-18
+<_:14> Your Pitches (P1) 09-16
+<_:21> Mockup (P2) 10-09
+<_:28> Information Design (P3) 10-30
+<_:36> Implementation Updates (P4) and Fire Fighting 11-25
